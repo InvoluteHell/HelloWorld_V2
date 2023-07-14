@@ -1,0 +1,21 @@
+name: Auto Rank
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Auto Rank
+        run: |
+          python3 .github/rank.py
+
+      - uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "chore: Auto Rank"
+          branch: ${{ github.ref }}

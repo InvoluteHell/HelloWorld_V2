@@ -49,8 +49,9 @@ Print "Hello World" without HELLOWORLD
 | 13 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
 | 14 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
 | 15 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
-| 16 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
-| 17 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
+| 16 | [Kuuuiii](Kuuuiii) | [a.c](Kuuuiii/a.c) | 64 | 26 | 1664 |
+| 17 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
+| 18 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
 <!-- end of RANKING -->
 
 ## 奖品

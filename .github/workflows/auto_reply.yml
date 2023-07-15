@@ -1,4 +1,4 @@
-name: Auto Reply to Pull Requests
+name: Cyber Referee
 
 on:
   pull_request_target:
@@ -9,6 +9,14 @@ jobs:
     permissions:
       pull-requests: write
     steps:
+
+      - name: Self-introduction
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+            message: "啾啾啾！裁判来咯！"
+            comment_tag: "Self-introduction"
+            reactions: laugh
+
       - name: Check out code
         uses: actions/checkout@v3
         with:
@@ -19,8 +27,8 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v37
 
-      - name: Run script
-        id: script
+      - name: Scoring
+        id: scoring
         run: |
           echo Changes: ${{ steps.changed-files.outputs.all_changed_files }}
 
@@ -29,9 +37,37 @@ jobs:
           echo "$comment"
           echo "$comment" > comment.txt
 
-      - name: Comment on pull request
+          if [[ $comment == *"No valid file"* ]]; then
+            echo valid=false | tee -a $GITHUB_OUTPUT
+          else
+            echo valid=true | tee -a $GITHUB_OUTPUT
+          fi
+
+      - name: Post Score
         uses: thollander/actions-comment-pull-request@v2
         with:
           filePath: comment.txt
           comment_tag: "Scoring"
-          reactions: eyes, rocket
+          reactions: rocket
+
+          
+      - name: Post Invalid
+        if: ${{ steps.scoring.outputs.valid }} == false
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: "这瓜保熟吗？"
+          comment_tag: "Invalid"
+          reactions: eyes
+
+
+      - name: Post Valid
+        if: ${{ steps.scoring.outputs.valid }} == true
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: "你的代码写的也忒好咧！"
+          comment_tag: "Valid"
+          reactions: hooray
+
+      - name: Auto Merge
+        if: ${{ steps.scoring.outputs.valid }} == true
+        uses: pascalgn/automerge-action@v0.15.6

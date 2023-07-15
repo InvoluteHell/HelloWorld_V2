@@ -1,5 +1,4 @@
-# HelloWorld 
-## fuxing with the best language in The Universe
+# HelloWorld by ipython notebook
 
-the basic idea is to use the xor operator `^` in php on ascii strings.
-key on optimization is to find a best way to form up the target ascii characters.
+an online demo at google colab:  
+[nocode.ipynb](https://colab.research.google.com/drive/1FCvZHN9f-YynOt1VPp7LZEVo9xjlJ7s-?usp=sharing)

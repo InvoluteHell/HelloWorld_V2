@@ -6,8 +6,15 @@ import pathlib
 def file_score(path: pathlib.Path) -> typing.Optional[typing.Tuple[int, int, int]]:
     """Return the score of a file based on its length and number of used characters."""
     
-    with open(path, 'r', encoding='utf-8') as f:
-        content = f.read()
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except UnicodeDecodeError:
+        print(f'File: {path} is not UTF-8.')
+        return None
+    except Exception as e:
+        print(f'File: {path} cannot be read. Error: {e}')
+        return None
     
     if not content.isascii():
         print(f'File: {path} is not ASCII.')

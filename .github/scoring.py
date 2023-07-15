@@ -3,14 +3,20 @@ import typing
 import pathlib
 
 
-def file_score(filename: pathlib.Path) -> typing.Optional[typing.Tuple[int, int, int]]:
+def file_score(path: pathlib.Path) -> typing.Optional[typing.Tuple[int, int, int]]:
     """Return the score of a file based on its length and number of used characters."""
     
-    with open(filename, 'r', encoding='utf-8') as f:
+    with open(path, 'r', encoding='utf-8') as f:
         content = f.read()
     
     if not content.isascii():
+        print(f'File: {path} is not ASCII.')
         return None
+    
+    for char in 'HELLOWORLDhelloworld':
+        if char in content:
+            print(f'File: {path} contains {char}.')
+            return None
 
     # Score based on length
     score_len = len(content)
@@ -34,7 +40,6 @@ def best_file_score(path_list: typing.List[pathlib.Path]) -> typing.Optional[typ
             continue
         scores = file_score(path)
         if not scores:
-            print(f'File: {path} is not ASCII.')
             continue
         print(f'File: {path}, Length: {scores[0]}, Category: {scores[1]}, Score: {scores[2]}')
         if scores[2] < min_scores[2] or min_scores[2] == 0:
@@ -42,7 +47,7 @@ def best_file_score(path_list: typing.List[pathlib.Path]) -> typing.Optional[typ
             min_path = path
             
     if min_scores[2] == 0:
-        print(f'\nNo ASCII file in {path_list}.')
+        print(f'\nNo valid file in {path_list}.')
     else:
         print(f'\nBest file: {min_path}, Length: {min_scores[0]}, Category: {min_scores[1]}, Score: {min_scores[2]}')
 

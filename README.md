@@ -46,9 +46,10 @@ Print "Hello World" without HELLOWORLD
 | 10 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
 | 11 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
 | 12 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
-| 13 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
-| 14 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 998 | 3 | 2994 |
-| 15 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
+| 13 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
+| 14 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
+| 15 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 998 | 3 | 2994 |
+| 16 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
 <!-- end of RANKING -->
 
 ## 奖品

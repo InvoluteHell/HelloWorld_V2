@@ -35,8 +35,8 @@ Print "Hello World" without HELLOWORLD
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
 | 1 | [Nemotte](Nemotte) | [main.wlang](Nemotte/main.wlang) | 38 | 7 | 266 |
-| 2 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 11 | 319 |
-| 3 | [WanZ](WanZ) | [nocode.jl](WanZ/nocode.jl) | 42 | 9 | 378 |
+| 2 | [WanZ](WanZ) | [nocode.php](WanZ/nocode.php) | 29 | 11 | 319 |
+| 3 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 11 | 319 |
 | 4 | [DavidWang19](DavidWang19) | [HelloWorld.ws](DavidWang19/HelloWorld.ws) | 129 | 3 | 387 |
 | 5 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 146 | 3 | 438 |
 | 6 | [DXTsT](DXTsT) | [hello.js](DXTsT/hello.js) | 42 | 11 | 462 |
@@ -48,8 +48,8 @@ Print "Hello World" without HELLOWORLD
 | 12 | [Cola_Dream](Cola_Dream) | [ColaJump.py](Cola_Dream/ColaJump.py) | 49 | 16 | 784 |
 | 13 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
 | 14 | [EdwardSu](EdwardSu) | [1.sh](EdwardSu/1.sh) | 36 | 23 | 828 |
-| 15 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
-| 16 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
+| 15 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
+| 16 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
 | 17 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
 | 18 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
 | 19 | [biubiubiu](biubiubiu) | [hw.py](biubiubiu/hw.py) | 63 | 25 | 1575 |

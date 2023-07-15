@@ -1,5 +1,5 @@
 # HelloWorld 
-## written in Julia language
+## fuxing with the best language in The Universe
 
-an online demo at google colab:  
-[nocode.jl](https://colab.research.google.com/drive/1FCvZHN9f-YynOt1VPp7LZEVo9xjlJ7s-?usp=sharing)
+the basic idea is to use the xor operator `^` in php on ascii strings.
+key on optimization is to find a best way to form up the target ascii characters.

@@ -51,8 +51,9 @@ Print "Hello World" without HELLOWORLD
 | 15 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
 | 16 | [Kuuuiii](Kuuuiii) | [a.c](Kuuuiii/a.c) | 64 | 26 | 1664 |
 | 17 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
-| 18 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
-| 19 | [HChenZi](HChenZi) | [hw.js](HChenZi/hw.js) | 30711929 | 6 | 184271574 |
+| 18 | [InMaldrerah](InMaldrerah) | [d.S](InMaldrerah/d.S) | 184 | 21 | 3864 |
+| 19 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
+| 20 | [HChenZi](HChenZi) | [hw.js](HChenZi/hw.js) | 30711929 | 6 | 184271574 |
 <!-- end of RANKING -->
 
 ## 奖品

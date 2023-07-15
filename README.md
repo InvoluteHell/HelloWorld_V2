@@ -38,9 +38,10 @@ Print "Hello World" without HELLOWORLD
 | 2 | [Coolboost](Coolboost) | [index.html](Coolboost/index.html) | 59 | 10 | 590 |
 | 3 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
 | 4 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
-| 5 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
-| 6 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
-| 7 | [Woodman3](Woodman3) | [main.py](Woodman3/main.py) | 71 | 19 | 1349 |
+| 5 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
+| 6 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
+| 7 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
+| 8 | [Woodman3](Woodman3) | [main.py](Woodman3/main.py) | 71 | 19 | 1349 |
 <!-- end of RANKING -->
 
 ## 奖品

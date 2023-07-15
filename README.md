@@ -49,11 +49,12 @@ Print "Hello World" without HELLOWORLD
 | 13 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
 | 14 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
 | 15 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
-| 16 | [Kuuuiii](Kuuuiii) | [a.c](Kuuuiii/a.c) | 64 | 26 | 1664 |
-| 17 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
-| 18 | [InMaldrerah](InMaldrerah) | [d.S](InMaldrerah/d.S) | 184 | 21 | 3864 |
-| 19 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
-| 20 | [HChenZi](HChenZi) | [hw.js](HChenZi/hw.js) | 30711929 | 6 | 184271574 |
+| 16 | [biubiubiu](biubiubiu) | [hw.py](biubiubiu/hw.py) | 63 | 25 | 1575 |
+| 17 | [Kuuuiii](Kuuuiii) | [a.c](Kuuuiii/a.c) | 64 | 26 | 1664 |
+| 18 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
+| 19 | [InMaldrerah](InMaldrerah) | [d.S](InMaldrerah/d.S) | 184 | 21 | 3864 |
+| 20 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
+| 21 | [HChenZi](HChenZi) | [hw.js](HChenZi/hw.js) | 30711929 | 6 | 184271574 |
 <!-- end of RANKING -->
 
 ## 奖品

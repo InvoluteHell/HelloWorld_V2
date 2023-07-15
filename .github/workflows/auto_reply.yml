@@ -38,9 +38,9 @@ jobs:
           echo "$comment" > comment.txt
 
           if [[ $comment == *"No valid file"* ]]; then
-            echo valid=false | tee -a $GITHUB_OUTPUT
+            echo valid=False | tee -a $GITHUB_OUTPUT
           else
-            echo valid=true | tee -a $GITHUB_OUTPUT
+            echo valid=True | tee -a $GITHUB_OUTPUT
           fi
 
       - name: Post Score
@@ -52,7 +52,7 @@ jobs:
 
           
       - name: Post Invalid
-        if: ${{ steps.scoring.outputs.valid }} == false
+        if: steps.scoring.outputs.valid != 'True'
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "这瓜保熟吗？"
@@ -61,13 +61,16 @@ jobs:
 
 
       - name: Post Valid
-        if: ${{ steps.scoring.outputs.valid }} == true
+        if: steps.scoring.outputs.valid == 'True'
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "你的代码写的也忒好咧！"
           comment_tag: "Valid"
           reactions: hooray
 
+
       - name: Auto Merge
-        if: ${{ steps.scoring.outputs.valid }} == true
+        if: ${{ steps.scoring.outputs.valid }} == 'True'
         uses: pascalgn/automerge-action@v0.15.6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

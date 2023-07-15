@@ -36,11 +36,11 @@ Print "Hello World" without HELLOWORLD
 | ---- | ------ | ---- | ------ | -------- | ----- |
 | 1 | [Nemotte](Nemotte) | [main.wlang](Nemotte/main.wlang) | 38 | 7 | 266 |
 | 2 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 11 | 319 |
-| 3 | [DavidWang19](DavidWang19) | [HelloWorld.ws](DavidWang19/HelloWorld.ws) | 129 | 3 | 387 |
-| 4 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 146 | 3 | 438 |
-| 5 | [DXTsT](DXTsT) | [hello.js](DXTsT/hello.js) | 42 | 11 | 462 |
-| 6 | [Coolboost](Coolboost) | [index.html](Coolboost/index.html) | 59 | 10 | 590 |
-| 7 | [WanZ](WanZ) | [nocode.ipynb](WanZ/nocode.ipynb) | 47 | 13 | 611 |
+| 3 | [WanZ](WanZ) | [nocode.jl](WanZ/nocode.jl) | 42 | 9 | 378 |
+| 4 | [DavidWang19](DavidWang19) | [HelloWorld.ws](DavidWang19/HelloWorld.ws) | 129 | 3 | 387 |
+| 5 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 146 | 3 | 438 |
+| 6 | [DXTsT](DXTsT) | [hello.js](DXTsT/hello.js) | 42 | 11 | 462 |
+| 7 | [Coolboost](Coolboost) | [index.html](Coolboost/index.html) | 59 | 10 | 590 |
 | 8 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
 | 9 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
 | 10 | [Thido](Thido) | [hw.bf](Thido/hw.bf) | 106 | 7 | 742 |

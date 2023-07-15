@@ -1,7 +1,3 @@
-![image-20230715113029309](C:\Users\konoha\AppData\Roaming\Typora\typora-user-images\image-20230715113029309.png)
-
-
-
 ```
  Scoring files...
 

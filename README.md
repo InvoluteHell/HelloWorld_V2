@@ -41,14 +41,16 @@ Print "Hello World" without HELLOWORLD
 | 5 | [Coolboost](Coolboost) | [index.html](Coolboost/index.html) | 59 | 10 | 590 |
 | 6 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
 | 7 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
-| 8 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
-| 9 | [EdwardSu](EdwardSu) | [1.sh](EdwardSu/1.sh) | 36 | 23 | 828 |
-| 10 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
-| 11 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
-| 12 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
-| 13 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
-| 14 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 998 | 3 | 2994 |
-| 15 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
+| 8 | [horror-proton](horror-proton) | [xxd.zsh](horror-proton/xxd.zsh) | 46 | 17 | 782 |
+| 9 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
+| 10 | [EdwardSu](EdwardSu) | [1.sh](EdwardSu/1.sh) | 36 | 23 | 828 |
+| 11 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
+| 12 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
+| 13 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
+| 14 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
+| 15 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
+| 16 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 998 | 3 | 2994 |
+| 17 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
 <!-- end of RANKING -->
 
 ## 奖品

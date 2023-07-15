@@ -1,1 +1,1 @@
-from https://www.json.cn/runcode/run_cpp/
+from www.json.cn/runcode/run_cpp/

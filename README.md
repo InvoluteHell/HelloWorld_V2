@@ -39,6 +39,7 @@ Print "Hello World" without HELLOWORLD
 | 3 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
 | 4 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
 | 5 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
+| 6 | [Woodman3](Woodman3) | [main.py](Woodman3/main.py) | 71 | 19 | 1349 |
 <!-- end of RANKING -->
 
 ## 奖品

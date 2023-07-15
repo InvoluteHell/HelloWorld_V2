@@ -16,6 +16,6 @@ jobs:
 
       - uses: actions-js/push@master
         with:
-          github_token: ${{ secrets.MISTEOPAT }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           message: "chore: Auto Rank"
           branch: ${{ github.ref }}

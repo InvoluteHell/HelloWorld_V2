@@ -34,7 +34,7 @@ Print "Hello World" without HELLOWORLD
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 30 | 13 | 390 |
+| 1 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 13 | 377 |
 | 2 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
 <!-- end of RANKING -->
 

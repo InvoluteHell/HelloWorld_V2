@@ -34,8 +34,8 @@ Print "Hello World" without HELLOWORLD
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [Nemotte](Nemotte) | [main.wlang](Nemotte/main.wlang) | 38 | 7 | 266 |
-| 2 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 11 | 319 |
+| 1 | [HisAtri](HisAtri) | [helloworld.g](HisAtri/helloworld.g) | 14 | 9 | 126 |
+| 2 | [Nemotte](Nemotte) | [main.wlang](Nemotte/main.wlang) | 38 | 7 | 266 |
 | 3 | [DavidWang19](DavidWang19) | [HelloWorld.ws](DavidWang19/HelloWorld.ws) | 129 | 3 | 387 |
 | 4 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 146 | 3 | 438 |
 | 5 | [DXTsT](DXTsT) | [hello.js](DXTsT/hello.js) | 42 | 11 | 462 |

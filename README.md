@@ -41,7 +41,8 @@ Print "Hello World" without HELLOWORLD
 | 5 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
 | 6 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
 | 7 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
-| 8 | [Woodman3](Woodman3) | [main.py](Woodman3/main.py) | 71 | 19 | 1349 |
+| 8 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 51 | 18 | 918 |
+| 9 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 998 | 3 | 2994 |
 <!-- end of RANKING -->
 
 ## 奖品

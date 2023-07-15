@@ -34,7 +34,7 @@ Print "Hello World" without HELLOWORLD
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [JiHongYuan](JiHongYuan) | [main.txt](JiHongYuan/main.txt) | 37 | 7 | 259 |
+| 1 | [JiHongYuan](JiHongYuan) | [裁判吹黑哨，ban了.txt](JiHongYuan/裁判吹黑哨，ban了.txt) | 37 | 7 | 259 |
 | 2 | [Nemotte](Nemotte) | [main.wlang](Nemotte/main.wlang) | 38 | 7 | 266 |
 | 3 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 12 | 348 |
 | 4 | [DavidWang19](DavidWang19) | [HelloWorld.ws](DavidWang19/HelloWorld.ws) | 129 | 3 | 387 |

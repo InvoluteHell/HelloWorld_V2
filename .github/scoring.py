@@ -55,12 +55,12 @@ def best_file_score(path_list: typing.List[pathlib.Path]) -> typing.Optional[typ
             min_path = path
             
     if min_scores[2] == 0:
-        print(f'\nNo valid file in {str_list}.')
+        print(f'\nNo valid file in {str_list}.\n\n')
+        return None
     else:
-        print(f'\nBest file: {min_path}, Length: {min_scores[0]}, Category: {min_scores[1]}, Score: {min_scores[2]}')
+        print(f'\nBest file: {min_path}, Length: {min_scores[0]}, Category: {min_scores[1]}, Score: {min_scores[2]}\n\n')
+        return min_path, min_scores
 
-    print('\n\n')
-    return min_path, min_scores
 
 if __name__ == '__main__':
 

@@ -36,15 +36,16 @@ Print "Hello World" without HELLOWORLD
 | ---- | ------ | ---- | ------ | -------- | ----- |
 | 1 | [JiHongYuan](JiHongYuan) | [main.txt](JiHongYuan/main.txt) | 37 | 7 | 259 |
 | 2 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 13 | 377 |
-| 3 | [Coolboost](Coolboost) | [index.html](Coolboost/index.html) | 59 | 10 | 590 |
-| 4 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
-| 5 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
-| 6 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
-| 7 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
-| 8 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
-| 9 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
-| 10 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 998 | 3 | 2994 |
-| 11 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
+| 3 | [DXTsT](DXTsT) | [hello.js](DXTsT/hello.js) | 46 | 12 | 552 |
+| 4 | [Coolboost](Coolboost) | [index.html](Coolboost/index.html) | 59 | 10 | 590 |
+| 5 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
+| 6 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
+| 7 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
+| 8 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
+| 9 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
+| 10 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
+| 11 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 998 | 3 | 2994 |
+| 12 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
 <!-- end of RANKING -->
 
 ## 奖品

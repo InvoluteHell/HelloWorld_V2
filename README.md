@@ -45,18 +45,19 @@ Print "Hello World" without HELLOWORLD
 | 9 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
 | 10 | [Thido](Thido) | [hw.bf](Thido/hw.bf) | 106 | 7 | 742 |
 | 11 | [horror-proton](horror-proton) | [xxd.zsh](horror-proton/xxd.zsh) | 46 | 17 | 782 |
-| 12 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
-| 13 | [EdwardSu](EdwardSu) | [1.sh](EdwardSu/1.sh) | 36 | 23 | 828 |
-| 14 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
-| 15 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
-| 16 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
-| 17 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
-| 18 | [biubiubiu](biubiubiu) | [hw.py](biubiubiu/hw.py) | 63 | 25 | 1575 |
-| 19 | [Kuuuiii](Kuuuiii) | [a.c](Kuuuiii/a.c) | 64 | 26 | 1664 |
-| 20 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
-| 21 | [InMaldrerah](InMaldrerah) | [d.S](InMaldrerah/d.S) | 184 | 21 | 3864 |
-| 22 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
-| 23 | [HChenZi](HChenZi) | [hw.js](HChenZi/hw.js) | 30711929 | 6 | 184271574 |
+| 12 | [Cola_Dream](Cola_Dream) | [ColaJump.py](Cola_Dream/ColaJump.py) | 49 | 16 | 784 |
+| 13 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
+| 14 | [EdwardSu](EdwardSu) | [1.sh](EdwardSu/1.sh) | 36 | 23 | 828 |
+| 15 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
+| 16 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
+| 17 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
+| 18 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
+| 19 | [biubiubiu](biubiubiu) | [hw.py](biubiubiu/hw.py) | 63 | 25 | 1575 |
+| 20 | [Kuuuiii](Kuuuiii) | [a.c](Kuuuiii/a.c) | 64 | 26 | 1664 |
+| 21 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
+| 22 | [InMaldrerah](InMaldrerah) | [d.S](InMaldrerah/d.S) | 184 | 21 | 3864 |
+| 23 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
+| 24 | [HChenZi](HChenZi) | [hw.js](HChenZi/hw.js) | 30711929 | 6 | 184271574 |
 <!-- end of RANKING -->
 
 ## 奖品

@@ -20,7 +20,7 @@ if __name__ == '__main__':
     ranking = "| Rank | Player | File | Length | Category | Score |\n"
     ranking += "| ---- | ------ | ---- | ------ | -------- | ----- |\n"
     for i, (player, path, score) in enumerate(score_list):
-        ranking += f"| {i+1} | [{player}]({player}) | [{path.stem}]({path}) | {score[0]} | {score[1]} | {score[2]} |\n"
+        ranking += f"| {i+1} | [{player}]({player}) | [{path.name}]({path}) | {score[0]} | {score[1]} | {score[2]} |\n"
 
     print(ranking)
 

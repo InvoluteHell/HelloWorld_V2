@@ -30,7 +30,7 @@ def file_score(path: pathlib.Path) -> typing.Optional[typing.Tuple[int, int, int
 def best_file_score(path_list: typing.List[pathlib.Path]) -> typing.Optional[typing.Tuple[int, int, int]]:
     """Return the best score of a list of files."""
     
-    print(f'Scoring files: {path_list}\n')
+    print(f'Scoring files: {[str(p) for p in path_list]}\n')
 
     min_scores = (0, 0, 0)
     min_path = pathlib.Path()

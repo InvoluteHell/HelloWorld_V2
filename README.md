@@ -70,7 +70,7 @@ Print "Hello World" without HELLOWORLD
 
 ## 时间
 
-待定，现在参赛也不是不可以（
+即日起 至 本周日晚 22 点（2023 / 7 / 16, UTC+8 北京时间）
 
 ## 讨论
 

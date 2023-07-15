@@ -36,7 +36,7 @@ Print "Hello World" without HELLOWORLD
 | ---- | ------ | ---- | ------ | -------- | ----- |
 | 1 | [Nemotte](Nemotte) | [main.wlang](Nemotte/main.wlang) | 38 | 7 | 266 |
 | 2 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 11 | 319 |
-| 3 | [WanZ](WanZ) | [nocode.php](WanZ/nocode.php) | 29 | 11 | 319 |
+| 3 | [WanZ](WanZ) | [nocode.py](WanZ/nocode.py) | 42 | 9 | 378 |
 | 4 | [DavidWang19](DavidWang19) | [HelloWorld.ws](DavidWang19/HelloWorld.ws) | 129 | 3 | 387 |
 | 5 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 146 | 3 | 438 |
 | 6 | [DXTsT](DXTsT) | [hello.js](DXTsT/hello.js) | 42 | 11 | 462 |

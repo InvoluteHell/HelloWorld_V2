@@ -35,11 +35,12 @@ Print "Hello World" without HELLOWORLD
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
 | 1 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 13 | 377 |
-| 2 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
-| 3 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
-| 4 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
-| 5 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
-| 6 | [Woodman3](Woodman3) | [main.py](Woodman3/main.py) | 71 | 19 | 1349 |
+| 2 | [Coolboost](Coolboost) | [index.html](Coolboost/index.html) | 59 | 10 | 590 |
+| 3 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
+| 4 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
+| 5 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
+| 6 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
+| 7 | [Woodman3](Woodman3) | [main.py](Woodman3/main.py) | 71 | 19 | 1349 |
 <!-- end of RANKING -->
 
 ## 奖品

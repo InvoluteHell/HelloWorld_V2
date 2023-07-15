@@ -17,6 +17,7 @@ Print "Hello World" without HELLOWORLD
 ## 比赛规则
 
 - 输出 `Hello World`，要求分毫不差。中间有空格，`H` 和 `W` 大写，其余小写
+- 代码中不允许出现 'HELLOWORLD' 这几个字母
 - 计分规则为：代码字符数量 乘 字符种类。最小者获胜！
 - 基本不限编程语言。但
   - 不准自己造个语言专门输出

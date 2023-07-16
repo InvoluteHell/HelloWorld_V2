@@ -43,22 +43,23 @@ Print "Hello World" without HELLOWORLD
 | 7 | [JackhowMichael](JackhowMichael) | [HelloWord.bf](JackhowMichael/HelloWord.bf) | 71 | 7 | 497 |
 | 8 | [Coolboost](Coolboost) | [index.html](Coolboost/index.html) | 59 | 10 | 590 |
 | 9 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
-| 10 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
-| 11 | [Thido](Thido) | [hw.bf](Thido/hw.bf) | 106 | 7 | 742 |
-| 12 | [horror-proton](horror-proton) | [xxd.zsh](horror-proton/xxd.zsh) | 46 | 17 | 782 |
-| 13 | [Cola_Dream](Cola_Dream) | [ColaJump.py](Cola_Dream/ColaJump.py) | 49 | 16 | 784 |
-| 14 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
-| 15 | [EdwardSu](EdwardSu) | [1.sh](EdwardSu/1.sh) | 36 | 23 | 828 |
-| 16 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
-| 17 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
-| 18 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
-| 19 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
-| 20 | [biubiubiu](biubiubiu) | [hw.py](biubiubiu/hw.py) | 63 | 25 | 1575 |
-| 21 | [Kuuuiii](Kuuuiii) | [a.c](Kuuuiii/a.c) | 64 | 26 | 1664 |
-| 22 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
-| 23 | [InMaldrerah](InMaldrerah) | [d.S](InMaldrerah/d.S) | 184 | 21 | 3864 |
-| 24 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
-| 25 | [HChenZi](HChenZi) | [hw.js](HChenZi/hw.js) | 30711929 | 6 | 184271574 |
+| 10 | [Initalheart](Initalheart) | [a.rb](Initalheart/a.rb) | 46 | 14 | 644 |
+| 11 | [HauKuen](HauKuen) | [1.rb](HauKuen/1.rb) | 39 | 17 | 663 |
+| 12 | [Thido](Thido) | [hw.bf](Thido/hw.bf) | 106 | 7 | 742 |
+| 13 | [horror-proton](horror-proton) | [xxd.zsh](horror-proton/xxd.zsh) | 46 | 17 | 782 |
+| 14 | [Cola_Dream](Cola_Dream) | [ColaJump.py](Cola_Dream/ColaJump.py) | 49 | 16 | 784 |
+| 15 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
+| 16 | [EdwardSu](EdwardSu) | [1.sh](EdwardSu/1.sh) | 36 | 23 | 828 |
+| 17 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
+| 18 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
+| 19 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
+| 20 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
+| 21 | [biubiubiu](biubiubiu) | [hw.py](biubiubiu/hw.py) | 63 | 25 | 1575 |
+| 22 | [Kuuuiii](Kuuuiii) | [a.c](Kuuuiii/a.c) | 64 | 26 | 1664 |
+| 23 | [qianxu](qianxu) | [HelloWorld.js](qianxu/HelloWorld.js) | 92 | 22 | 2024 |
+| 24 | [InMaldrerah](InMaldrerah) | [d.S](InMaldrerah/d.S) | 184 | 21 | 3864 |
+| 25 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
+| 26 | [HChenZi](HChenZi) | [hw.js](HChenZi/hw.js) | 30711929 | 6 | 184271574 |
 <!-- end of RANKING -->
 
 ## 奖品

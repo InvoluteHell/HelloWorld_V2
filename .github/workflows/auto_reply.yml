@@ -47,7 +47,6 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           filePath: comment.txt
-          comment_tag: "Scoring"
           reactions: rocket
 
           
@@ -56,7 +55,6 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "这瓜保熟吗？"
-          comment_tag: "Invalid"
           reactions: eyes
 
 
@@ -65,7 +63,6 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: "你的代码写的也忒好咧！"
-          comment_tag: "Valid"
           reactions: hooray
 
 

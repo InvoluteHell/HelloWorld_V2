@@ -66,9 +66,9 @@ jobs:
           reactions: hooray
 
 
-      - name: Auto Merge
-        if: steps.scoring.outputs.valid == 'True'
-        uses: pascalgn/automerge-action@v0.15.6
-        env:
-          MERGE_LABELS: ""
-          GITHUB_TOKEN: ${{ secrets.MISTEOPAT }}
+    #   - name: Auto Merge
+    #     if: steps.scoring.outputs.valid == 'True'
+    #     uses: pascalgn/automerge-action@v0.15.6
+    #     env:
+    #       MERGE_LABELS: ""
+    #       GITHUB_TOKEN: ${{ secrets.MISTEOPAT }}

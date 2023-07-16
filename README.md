@@ -63,18 +63,6 @@ Print "Hello World" without HELLOWORLD
 | 27 | [dongwlin](dongwlin) | [index.php](dongwlin/index.php) | 21254617 | 81 | 1721623977 |
 <!-- end of RANKING -->
 
-## 奖品
-
-- 第一名：一箱难喝的无糖黑咖啡，由你们伟大的群主 玛丽 赞助！
-- 最后一名：一份榴莲臭豆腐披萨，由 @群守夜人 赞助！
-- 参与奖 1: 随机抽一名，一箱难喝的无糖黑咖啡，由你们伟大的群主 玛丽 赞助！
-
-欢迎老板们赞助更多奖品~
-
-## 时间
-
-即日起 至 本周日晚 22 点（2023 / 7 / 16, UTC+8 北京时间）
-
 ## 讨论
 
 欢迎加入 [QQ 群](https://jq.qq.com/?_wv=1027&k=8aBWumWU) (672372860), [Telegram 群](https://t.me/+NjDljiDRrpI4NTU1) ，或通过 issue, discussions 讨论！

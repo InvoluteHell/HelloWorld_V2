@@ -50,8 +50,8 @@ Print "Hello World" without HELLOWORLD
 | 14 | [Cola_Dream](Cola_Dream) | [ColaJump.py](Cola_Dream/ColaJump.py) | 49 | 16 | 784 |
 | 15 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
 | 16 | [EdwardSu](EdwardSu) | [1.sh](EdwardSu/1.sh) | 36 | 23 | 828 |
-| 17 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
-| 18 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
+| 17 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
+| 18 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
 | 19 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
 | 20 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
 | 21 | [biubiubiu](biubiubiu) | [hw.py](biubiubiu/hw.py) | 63 | 25 | 1575 |
@@ -60,7 +60,7 @@ Print "Hello World" without HELLOWORLD
 | 24 | [InMaldrerah](InMaldrerah) | [d.S](InMaldrerah/d.S) | 184 | 21 | 3864 |
 | 25 | [DuskMelon](DuskMelon) | [script.js](DuskMelon/script.js) | 469260 | 7 | 3284820 |
 | 26 | [HChenZi](HChenZi) | [hw.js](HChenZi/hw.js) | 30711929 | 6 | 184271574 |
-| 27 | [dongwlin](dongwlin) | [index.php](dongwlin/index.php) | 5573017 | 81 | 451414377 |
+| 27 | [dongwlin](dongwlin) | [index.php](dongwlin/index.php) | 21254617 | 81 | 1721623977 |
 <!-- end of RANKING -->
 
 ## 奖品

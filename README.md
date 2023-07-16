@@ -34,13 +34,13 @@ Print "Hello World" without HELLOWORLD
 <!-- begin of RANKING -->
 | Rank | Player | File | Length | Category | Score |
 | ---- | ------ | ---- | ------ | -------- | ----- |
-| 1 | [Nemotte](Nemotte) | [main.wlang](Nemotte/main.wlang) | 38 | 7 | 266 |
-| 2 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 11 | 319 |
-| 3 | [WanZ](WanZ) | [nocode.ipynb](WanZ/nocode.ipynb) | 42 | 9 | 378 |
-| 4 | [DavidWang19](DavidWang19) | [HelloWorld.ws](DavidWang19/HelloWorld.ws) | 129 | 3 | 387 |
-| 5 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 146 | 3 | 438 |
-| 6 | [DXTsT](DXTsT) | [hello.js](DXTsT/hello.js) | 42 | 11 | 462 |
-| 7 | [JackhowMichael](JackhowMichael) | [HelloWord.bf](JackhowMichael/HelloWord.bf) | 71 | 7 | 497 |
+| 1 | [JackhowMichael](JackhowMichael) | [Fourier.txt](JackhowMichael/Fourier.txt) | 35 | 7 | 245 |
+| 2 | [Nemotte](Nemotte) | [main.wlang](Nemotte/main.wlang) | 38 | 7 | 266 |
+| 3 | [HisAtri](HisAtri) | [index.php](HisAtri/index.php) | 29 | 11 | 319 |
+| 4 | [WanZ](WanZ) | [nocode.ipynb](WanZ/nocode.ipynb) | 42 | 9 | 378 |
+| 5 | [DavidWang19](DavidWang19) | [HelloWorld.ws](DavidWang19/HelloWorld.ws) | 129 | 3 | 387 |
+| 6 | [70CentsApple](70CentsApple) | [whitespace.ws](70CentsApple/whitespace.ws) | 146 | 3 | 438 |
+| 7 | [DXTsT](DXTsT) | [hello.js](DXTsT/hello.js) | 42 | 11 | 462 |
 | 8 | [Coolboost](Coolboost) | [index.html](Coolboost/index.html) | 59 | 10 | 590 |
 | 9 | [KevinT3Hu](KevinT3Hu) | [main.bf](KevinT3Hu/main.bf) | 91 | 7 | 637 |
 | 10 | [Initalheart](Initalheart) | [a.rb](Initalheart/a.rb) | 46 | 14 | 644 |
@@ -50,8 +50,8 @@ Print "Hello World" without HELLOWORLD
 | 14 | [Cola_Dream](Cola_Dream) | [ColaJump.py](Cola_Dream/ColaJump.py) | 49 | 16 | 784 |
 | 15 | [tursom](tursom) | [hello.kts](tursom/hello.kts) | 63 | 13 | 819 |
 | 16 | [EdwardSu](EdwardSu) | [1.sh](EdwardSu/1.sh) | 36 | 23 | 828 |
-| 17 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
-| 18 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
+| 17 | [Woodman3](Woodman3) | [a.sh](Woodman3/a.sh) | 50 | 17 | 850 |
+| 18 | [foxwhite25](foxwhite25) | [ruby.rb](foxwhite25/ruby.rb) | 34 | 25 | 850 |
 | 19 | [MistEO](MistEO) | [hw.py](MistEO/hw.py) | 49 | 18 | 882 |
 | 20 | [Konoha](Konoha) | [main.c](Konoha/main.c) | 58 | 25 | 1450 |
 | 21 | [biubiubiu](biubiubiu) | [hw.py](biubiubiu/hw.py) | 63 | 25 | 1575 |

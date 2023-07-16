@@ -4,9 +4,7 @@
 
 ![image-20230715175214041](image-20230715175214041.png)
 
-## 二、Betterave
-
-详细介绍：[Betterave - Esolang (esolangs.org)](https://esolangs.org/wiki/Betterave#External_resources)
+## 二、[Betterave](https://esolangs.org/wiki/Betterave#External_resources)
 
 简单介绍：
 
@@ -26,17 +24,15 @@
 
 
 
-## 三、bitch
-
-详细介绍：[bitch - Esolang (esolangs.org)](https://esolangs.org/wiki/Bitch#Truth-machine)
+## 三、[bitch](https://esolangs.org/wiki/Bitch#Truth-machine)
 
 截图是介绍里的示例代码，把中间的逗号和末尾的叹号删掉即可。但是显然没有单字符控制输出的语言简单，还是没法胜过第一名。
 
 ![截图3](Snipaste_2023-07-16_15-33-26.png)
 
-## 四、Fourier
+## 四、[Fourier](https://esolangs.org/wiki/Fourier)
 
-![截图4](.\Snipaste_2023-07-16_18-10-11.png)
+![截图4](Snipaste_2023-07-16_18-10-11.png)
 
 这个能战胜第一名，因为遇到连续的字母它可以省略一次参数！大胜利！
 
@@ -48,7 +44,7 @@
 
 ![截图5](Snipaste_2023-07-16_18-15-28.png)
 
-原理很简单，其实等于是直接输出"Hello World "，它把每个单词都压缩到两个字符并存入字典，根据查字典可知`Ÿ™`代表`hello`，`‚ï`代表`world`。但是蛋疼的地方在于，它使用字典里的压缩字符串输出的时候默认是以**空格作为分隔符**以及**全小写**的格式。虽然提供了全角右双引号`”`表示去字典里查询压缩字符并以首字母大写的格式输出、全角右单引号`’`取消单词后的空格分隔符，但这俩**不能嵌套使用**......wiki介绍说这语言是基于栈结构的，但似乎栈深度默认只有1.....有兴趣的可以研究一下我把链接贴在下面。
+原理很简单，其实等于是直接输出"Hello World "，只是这个语言专门为了简化编程而生，为了简化字符串，它把每个单词都压缩到两个字符并存入字典，根据查字典可知`Ÿ™`代表`hello`，`‚ï`代表`world`。但是蛋疼的地方在于，它使用字典里的压缩字符串输出的时候默认是以**空格作为分隔符**以及**全小写**的格式。虽然提供了全角右双引号`”`表示去字典里查询压缩字符并以首字母大写的格式输出、全角右单引号`’`取消单词后的空格分隔符，但这俩**不能嵌套使用**......wiki介绍说这语言是基于栈结构的，但似乎栈深度默认只有1.....有兴趣的可以研究一下我把链接贴在下面。
 
 [Commands · Adriandmen/05AB1E Wiki (github.com)](https://github.com/Adriandmen/05AB1E/wiki/Commands)
 
